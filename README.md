@@ -7,4 +7,4 @@
 1. Clone this repository like this:
 
 ```bash
-git clone [https://github.com/vaguesyntax/ii-vynx.git](https://github.com/vaguesyntax/ii-vynx.git) --recurse-submodules
+se colona essa fita ai, extrai na /home/usuarioseu/ ai se só sla joga tudo e reza amem no quickshell
